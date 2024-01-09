@@ -10,7 +10,7 @@ PG53876 - Inês Barroso<br>
 
 
 
-## Descrição do Dataset
+## Informação e Descrição do Dataset
 
 ```Dataset 2```: Lung Adenocarcinoma (TCGA, Provisional) <br>
 Link: https://www.cbioportal.org/study?id=luad_tcga <br>
