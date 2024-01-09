@@ -21,4 +21,3 @@ Nº de pacientes com dados de expressão (RNA-seq): 515 <br>
 
 Artigo: https://www.ncbi.nlm.nih.gov/pubmed/25079552 <br>
 
-![Uploading image.png…]()
