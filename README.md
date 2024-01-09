@@ -14,9 +14,6 @@ PG53876 - Inês Barroso<br>
 
 ```Dataset 2```: Lung Adenocarcinoma (TCGA, Provisional) <br>
 
-![image](https://github.com/pipapsc/Bioinform-tica---Grupo-6/assets/91962321/aff15f0b-49de-4b91-b75b-81cd8c8cfbf1)
-<img src="![image](https://github.com/pipapsc/Bioinform-tica---Grupo-6/assets/91962321/aff15f0b-49de-4b91-b75b-81cd8c8cfbf1)" alt="" style="width:50%; height:50%;">
-
 Link: https://www.cbioportal.org/study?id=luad_tcga <br>
 
 Dataset com 517 amostras <br>
