@@ -43,3 +43,9 @@ apenas uma fração dos casos, sugerindo mecanismos adicionais e inexplicáveis
 de ativação da via. Esses dados estabelecem uma base para a classificação de
 novas investigações patogénicas moleculares do adenocarcinoma pulmonar.
 
+
+
+## Objetivo do trabalho
+
+
+
