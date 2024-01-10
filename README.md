@@ -23,7 +23,7 @@ Nº de pacientes com dados de expressão (RNA-seq): 515 <br><br>
 
 Artigo: https://www.ncbi.nlm.nih.gov/pubmed/25079552 <br><br> 
 
-Breve resumo do artigo: <br> 
+Breve resumo do artigo (Abstract): <br> 
 
 O adenocarcinoma do pulmão é a principal causa de morte por cancro em
 todo o mundo. Neste artigo é relatado o perfil molecular de 230 adenocarcinomas pulmonares usando RNA mensageiro, microRNA e sequenciamento de DNA integrado com análises de número de cópia, metilação e proteómica.
