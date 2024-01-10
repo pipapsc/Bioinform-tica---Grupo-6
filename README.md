@@ -19,9 +19,10 @@ Link: https://www.cbioportal.org/study?id=luad_tcga <br>
 Dataset com 517 amostras <br>
 Nº de pacientes com dados de expressão (RNA-seq): 515 <br>
 
-Artigo: https://www.ncbi.nlm.nih.gov/pubmed/25079552 <br>
+Artigo: https://www.ncbi.nlm.nih.gov/pubmed/25079552 <br>  
 
-Breve resumo do artigo: <br>
+Breve resumo do artigo: <br> 
+
 O adenocarcinoma do pulmão é a principal causa de morte por cancro em
 todo o mundo. Neste artigo é relatado o perfil molecular de 230 adenocarcinomas pulmonares usando RNA mensageiro, microRNA e sequenciamento de DNA integrado com análises de número de cópia, metilação e proteómica.
 Altas taxas de mutação somática foram observadas (médio de 8,9
