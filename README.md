@@ -19,7 +19,7 @@ Link: https://www.cbioportal.org/study?id=luad_tcga <br>
 Dataset com 517 amostras <br>
 Nº de pacientes com dados de expressão (RNA-seq): 515 <br>
 
-Artigo: https://www.ncbi.nlm.nih.gov/pubmed/25079552 <br>  
+Artigo: https://www.ncbi.nlm.nih.gov/pubmed/25079552 <br><br> 
 
 Breve resumo do artigo: <br> 
 
