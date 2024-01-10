@@ -51,7 +51,7 @@ Através da taxa de mutação dos genes, pretende-se estabelecer uma relação e
 
 
 
-
-<img src="https://github.com/pipapsc/Bioinform-tica---Grupo-6/assets/91962321/bb00be73-8c87-4f3f-8516-20cb2dabf23c" alt="Adenocarcinoma Pulmonar" style="width:50%; height:50%;">
-
+<div style="text-align: center;">
+  <img src="https://github.com/pipapsc/Bioinform-tica---Grupo-6/assets/91962321/bb00be73-8c87-4f3f-8516-20cb2dabf23c" alt="Adenocarcinoma Pulmonar" style="width:50%; height:50%;">
+</div>
 
