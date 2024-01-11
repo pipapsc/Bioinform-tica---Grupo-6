@@ -50,7 +50,7 @@ exão 14 no mRNA MET em 4% dos casos. A atividade da via MAPK e PI(3)K,
 quando medida no nível da proteína, foi explicada por mutações conhecidas em
 apenas uma fração dos casos, sugerindo mecanismos adicionais e inexplicáveis
 de ativação da via. Esses dados estabelecem uma base para a classificação de
-novas investigações patogénicas moleculares do adenocarcinoma pulmonar.<br><br> 
+novas investigações patogénicas moleculares do adenocarcinoma pulmonar.<br><br><br> 
 
 
 
