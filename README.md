@@ -1,4 +1,5 @@
-# UC de Bioinformática
+# UC de Bioinformática ![image](https://github.com/pipapsc/Bioinform-tica---Grupo-6/assets/91962321/efb39dc8-aa19-45a0-b337-ba95fbb5542f)
+
 
 ### Trabalho realizado por:<br>
 ```Grupo 6```<br>
