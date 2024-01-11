@@ -16,7 +16,7 @@ PG53876 - Inês Barroso<br>
 
 ## Informação e Descrição do Dataset
 
-<img align="right" src="https://github.com/pipapsc/Bioinform-tica---Grupo-6/assets/91962321/b94786fc-b100-47ca-91f4-3c24ccc5d8d7" alt="" style="width: 30%; height: 30%;">
+<img align="right" src="https://github.com/pipapsc/Bioinform-tica---Grupo-6/assets/91962321/a1d1661e-4d51-406b-8b64-7b450504569e" alt="" style="width: 30%; height: 30%;">
 ```Dataset 2```: Lung Adenocarcinoma (TCGA, Provisional) <br> 
 
 
