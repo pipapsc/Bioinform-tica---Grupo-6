@@ -1,5 +1,6 @@
-# UC de Bioinformática <p align="right">
-  <img src="https://github.com/pipapsc/Bioinform-tica---Grupo-6/assets/91962321/efb39dc8-aa19-45a0-b337-ba95fbb5542f)" alt="" style="width:10%; height:10%;">
+# UC de Bioinformática 
+<p align="right">
+  <img src="https://github.com/pipapsc/Bioinform-tica---Grupo-6/assets/91962321/efb39dc8-aa19-45a0-b337-ba95fbb5542f)" alt="" style="width:5%; height:5%;">
 </p>
 
 
