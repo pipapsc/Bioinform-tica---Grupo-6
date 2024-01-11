@@ -26,7 +26,7 @@ O ficheiro é constituído por dois datasets, o que contém os dados(data_RNA_Se
 
 O dataset que contém os dados é constituído por uma coluna Hugo_Symbol cujos valores identificam genes (20531), uma coluna Entrez_Gene_Id que contém o ID de cada gene, e as restantes colunas dizem respeito às amostras (517) relativas a cada paciente (515 pacientes, existindo 2 pacientes que possuem 2 amostras cada um). Cada uma das colunas apresenta quantidades de genes mutados para a amostra em questão.
 
-O dataset dos metadados contém 3 colunas de ID, a primeira do estudo, que é igual para todas as amostras deste dataset, não sendo relevante, a segunda com o ID do paciente e a terceira com o ID da amostra. As restantes colunas dizem respeito a atributos relacionados a doença que contêm dados relativos a cada paciente. 
+O dataset dos metadados contém 3 colunas de ID, a primeira do estudo, que é igual para todas as amostras deste dataset, não sendo relevante, a segunda com o ID do paciente e a terceira com o ID da amostra. As restantes colunas dizem respeito a atributos relacionados a doença que contêm dados relativos a cada paciente. <br><br> 
 
 
 Artigo: https://www.ncbi.nlm.nih.gov/pubmed/25079552 <br><br> 
