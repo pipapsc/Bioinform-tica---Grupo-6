@@ -58,7 +58,7 @@ novas investigações patogénicas moleculares do adenocarcinoma pulmonar.<br><b
 
 
 
-Através da taxa de mutação dos genes, pretende-se estabelecer uma relação entre dados de expressão genética e metadados clínicos sobre pacientes com historial de adenocarninoma pulmonar, um caso específico dentro do Cancro de Pulmão de Células Não Pequenas (NSCLC - Non Small Cells Lung Cancer). Identificando-se também quais os genes e fatores de maior influência nesta doença. A linguagem de programação utilizada para tal foi o Python.
+Pretende-se estabelecer uma relação entre dados de expressão genética e meta-dados clínicos sobre pacientes com historial de adenocarninoma pulmonar, um caso específico dentro do Cancro de Pulmão de Células Não Pequenas (NSCLC - Non Small Cells Lung Cancer). Identificando-se também quais os genes e fatores de maior influência nesta doença. A linguagem de programação utilizada para tal foi o Python.
 
 
 
