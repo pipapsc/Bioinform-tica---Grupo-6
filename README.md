@@ -58,8 +58,20 @@ novas investigações patogénicas moleculares do adenocarcinoma pulmonar.<br><b
 
 
 
-Pretende-se estabelecer uma relação entre dados de expressão genética e meta-dados clínicos sobre pacientes com historial de adenocarninoma pulmonar, um caso específico dentro do Cancro de Pulmão de Células Não Pequenas (NSCLC - Non Small Cells Lung Cancer), visando a previsão da ocorrência ou não de tumor. Identificaram-se também quais os genes e fatores de maior influência nesta doença. A linguagem de programação utilizada para tal foi o Python.
+Pretende-se estabelecer uma relação entre dados de expressão genética e meta-dados clínicos sobre pacientes com historial de adenocarninoma pulmonar, um caso específico dentro do Cancro de Pulmão de Células Não Pequenas (NSCLC - Non Small Cells Lung Cancer), visando a previsão da ocorrência ou não de tumor. Identificaram-se também quais os genes e fatores de maior influência nesta doença. A linguagem de programação utilizada para tal foi o Python.<br><br><br> 
 
+
+
+## Conclusão
+
+
+Foi possível atingir o principal objetivo do trabalho, que se prende com a previsão de ocorrência ou não de tumor para cada indivíduo. No entanto, os resultados obtidos tanto na aprendizagem não supervisionada como na supervisionada não foram satisfatórios.
+
+O objetivo de se terem realizado 2 versões de dados de entrada para algoritmos de aprendizagem supervisionada foi para avaliar se com mais informação clínica, as previsões seriam mais eficazes, contudo acabaram por ser semelhantes nas duas versões.
+
+A previsão de casos clínicos através de modelos de machine learning acarreta riscos de diagnósticos incorretos (FP e FN), que no caso dos FP podem levar à aplicação de terapias desnecessárias, enquanto nos FN pde resultar no atraso do tratamento e na progressão da doença. Assim, para um diagnóstico ser mais preciso, este deve assentar em múltiplos fatores, para além de se fazer uma maior recolha de dados, nomeadamente de pacientes com tumor. No entanto, é importante evitar aumentar a complexidade do modelo, para este manter a capacidade de generalizar.
+
+O presente dataset não é, então, adequado para este tipo de previsões devido às suas características.
 
 
 <p align="center">
