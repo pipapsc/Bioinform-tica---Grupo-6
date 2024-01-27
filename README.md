@@ -19,7 +19,7 @@ PG54186 - Ricardo Barros<br>
 
 <img align="right" src="https://github.com/pipapsc/Bioinform-tica---Grupo-6/assets/91962321/40ce512c-50a5-428f-bd7b-20d2447b9dd1" alt="" style="width: 20%; height: 20%;">
 
-```Dataset 2```: Lung Adenocarcinoma (TCGA, Provisional) <br> 
+```Dataset 2```: **Lung Adenocarcinoma (TCGA, Provisional)** <br> 
 
 Link: https://www.cbioportal.org/study?id=luad_tcga <br>
 
