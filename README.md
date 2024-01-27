@@ -76,7 +76,7 @@ O objetivo de se terem realizado 2 versões de dados de entrada para algoritmos 
 
 A previsão de casos clínicos através de modelos de machine learning acarreta riscos de diagnósticos incorretos (FP e FN), que no caso dos FP podem levar à aplicação de terapias desnecessárias, enquanto nos FN pde resultar no atraso do tratamento e na progressão da doença. Assim, para um diagnóstico ser mais preciso, este deve assentar em múltiplos fatores, para além de se fazer uma maior recolha de dados, nomeadamente de pacientes com tumor. No entanto, é importante evitar aumentar a complexidade do modelo, para este manter a capacidade de generalizar.
 
-O presente dataset não é, então, adequado para este tipo de previsões devido às suas características.
+O presente dataset não é, portanto, adequado para este tipo de previsões devido às suas características.
 
 
 
