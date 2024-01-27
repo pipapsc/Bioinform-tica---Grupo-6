@@ -58,7 +58,13 @@ novas investigações patogénicas moleculares do adenocarcinoma pulmonar.<br><b
 
 
 
-Pretende-se estabelecer uma relação entre dados de expressão genética e meta-dados clínicos sobre pacientes com historial de adenocarninoma pulmonar, um caso específico dentro do Cancro de Pulmão de Células Não Pequenas (NSCLC - Non Small Cells Lung Cancer), visando a previsão da ocorrência ou não de tumor. Identificaram-se também quais os genes e fatores de maior influência nesta doença. A linguagem de programação utilizada para tal foi o Python.<br><br><br> 
+Pretende-se estabelecer uma relação entre dados de expressão genética e meta-dados clínicos sobre pacientes com historial de adenocarninoma pulmonar, um caso específico dentro do Cancro de Pulmão de Células Não Pequenas (NSCLC - Non Small Cells Lung Cancer), visando a previsão da ocorrência ou não de tumor. Identificaram-se também quais os genes e fatores de maior influência nesta doença. A linguagem de programação utilizada para tal foi o Python.<br>
+
+<p align="center">
+  <img src="https://github.com/pipapsc/Bioinform-tica---Grupo-6/assets/91962321/bb00be73-8c87-4f3f-8516-20cb2dabf23c" alt="Adenocarcinoma Pulmonar" style="width:30%; height:30%;">
+</p>
+<br> <br> 
+
 
 
 
@@ -74,7 +80,4 @@ A previsão de casos clínicos através de modelos de machine learning acarreta 
 O presente dataset não é, então, adequado para este tipo de previsões devido às suas características.
 
 
-<p align="center">
-  <img src="https://github.com/pipapsc/Bioinform-tica---Grupo-6/assets/91962321/bb00be73-8c87-4f3f-8516-20cb2dabf23c" alt="Adenocarcinoma Pulmonar" style="width:30%; height:30%;">
-</p>
-<br> <br> 
+
