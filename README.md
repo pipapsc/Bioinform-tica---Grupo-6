@@ -23,16 +23,16 @@ PG54186 - Ricardo Barros<br>
 
 Link: https://www.cbioportal.org/study?id=luad_tcga <br>
 
-O ficheiro é constituído por dois datasets, o que contém os dados(data_RNA_Seq_v2_expression_median) e o que contém os meta-dados (luad_tcga_clinical_data).
+O ficheiro é constituído por dois datasets, o que contém os dados (*data_RNA_Seq_v2_expression_median*) e o que contém os meta-dados (*luad_tcga_clinical_data*).
 
-O dataset que contém os dados é constituído por uma coluna Hugo_Symbol cujos valores identificam genes (20531), uma coluna Entrez_Gene_Id que contém o ID de cada gene, e as restantes colunas dizem respeito às amostras (517) relativas a cada paciente (515 pacientes, existindo 2 pacientes que possuem 2 amostras cada um). Cada uma das colunas apresenta quantidades de genes mutados para a amostra em questão.
+O dataset que contém os dados é constituído por uma coluna *Hugo_Symbol* cujos valores identificam genes (20531), uma coluna *Entrez_Gene_Id* que contém o ID de cada gene, e as restantes colunas dizem respeito às amostras (517) relativas a cada paciente (515 pacientes, existindo 2 pacientes que possuem 2 amostras cada um). Cada uma das colunas apresenta quantidades de genes mutados para a amostra em questão.
 
 O dataset dos metadados contém 3 colunas de ID, a primeira do estudo, que é igual para todas as amostras deste dataset, não sendo relevante, a segunda com o ID do paciente e a terceira com o ID da amostra. As restantes colunas dizem respeito a atributos relacionados a doença que contêm dados relativos a cada paciente. <br><br><br>  
 
 
 Artigo: https://www.ncbi.nlm.nih.gov/pubmed/25079552 <br><br> 
 
-Breve resumo do artigo (Abstract): <br> 
+Breve resumo do artigo (*Abstract*): <br> 
 
 O adenocarcinoma do pulmão é a principal causa de morte por cancro em
 todo o mundo. Neste artigo é relatado o perfil molecular de 230 adenocarcinomas pulmonares usando RNA mensageiro, microRNA e sequenciamento de DNA integrado com análises de número de cópia, metilação e proteómica.
@@ -59,7 +59,7 @@ novas investigações patogénicas moleculares do adenocarcinoma pulmonar.<br><b
 
 
 
-Pretende-se estabelecer uma relação entre dados de expressão genética e meta-dados clínicos sobre pacientes com historial de adenocarninoma pulmonar, um caso específico dentro do Cancro de Pulmão de Células Não Pequenas (NSCLC - Non Small Cells Lung Cancer), visando a previsão da ocorrência ou não de tumor. Identificaram-se também quais os genes e fatores de maior influência nesta doença. A linguagem de programação utilizada para tal foi o Python.<br><br><br>
+Pretende-se estabelecer uma relação entre dados de expressão genética e meta-dados clínicos sobre pacientes com historial de adenocarninoma pulmonar, um caso específico dentro do Cancro de Pulmão de Células Não Pequenas (*NSCLC - Non Small Cells Lung Cancer*), visando a previsão da ocorrência ou não de tumor. Identificaram-se também quais os genes e fatores de maior influência nesta doença. A linguagem de programação utilizada para tal foi o Python.<br><br><br>
 <p align="center">
   <img src="https://github.com/pipapsc/Bioinform-tica---Grupo-6/assets/91962321/bb00be73-8c87-4f3f-8516-20cb2dabf23c" alt="Adenocarcinoma Pulmonar" style="width:30%; height:30%;">
 </p>
